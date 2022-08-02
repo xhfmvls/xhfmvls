@@ -45,7 +45,7 @@ I interpret the quote as that if someone wants to achieve something (even a smal
 <img src="https://img.icons8.com/fluency/344/mysql-logo.png" alt="MySQL" height="40" style="margin:4px">
 <img src="https://img.icons8.com/color/344/git.png" alt="Git" height="40" style="margin:4px">
 <img src="https://img.icons8.com/color/344/linux--v1.png" alt="Linux" height="40" style="margin:4px">
-<img src="[https://img.icons8.com/color/344/linux--v1.png](https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png)" alt="Prisma" height="40" style="margin:4px">
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png" alt="Prisma" height="40" style="margin:4px">
 </div>
  <br>
  
