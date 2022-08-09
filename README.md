@@ -2,23 +2,24 @@
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=xhfmvls)
 ![Github](https://img.shields.io/github/followers/xhfmvls?label=Followers&style=social)
-![Twitter Badge](https://img.shields.io/badge/-@xhfmvls-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pradipta1357)
-![Linkedin Badge](https://img.shields.io/badge/-vincentpradipta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-pradipta/)
+<a href="https://twitter.com/pradipta1357" target="_blank" rel="noopener noreferrer">![Twitter Badge](https://img.shields.io/badge/-@pradipta1357-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pradipta1357)
+<a href="https://www.linkedin.com/in/vincent-pradipta" target="_blank" rel="noopener noreferrer">![Linkedin Badge](https://img.shields.io/badge/-vincentpradipta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-pradipta/)</a>
 
 <br>
 
 <p align = "center">
 <a href="https://github.com/xhfmvls" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1487094933983232000/XtGtuubm_400x400.jpg" height="200" /></a>
 </p>
-<br><br>
-Whenever I tried to learn or create new projects, I always remembered this specific quote from Carl Sagan. 
-
-```
-“If you wish to make an apple pie from scratch, you must first invent the universe.”
-```
-
-I interpret the quote as that if someone wants to achieve something (even a small one), they should achieve many other things in the process. I hope all the things I learn and create would help me achieve the <i>apple pie</i> of my life. And by this, I hope that these repositories I created on GitHub would be a journal of my journey in creating my <i>universe</i>. 
 <br>
+
+```
+"When you've seen beyond yourself, then you may find, peace of mind is waiting there."
+
+- George Harrison
+```
+
+<br>
+
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on my hackathon projects
 - 🌱 I’m currently learning software engineering and project management
