@@ -18,8 +18,6 @@
 - George Harrison
 ```
 
-<br>
-
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on my hackathon projects
 - 🌱 I’m currently learning software engineering and project management
