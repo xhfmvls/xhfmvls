@@ -36,6 +36,7 @@
 <img src="https://img.icons8.com/color/344/typescript.png" alt="Typescript" height="40" style="margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="margin:4px">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dartlang_logo_icon_170299.png" alt="Dart" height="40" style="margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="GO" height="40" style="margin:4px">
 <br>
 <img src="https://www.logolynx.com/images/logolynx/00/00429ca224699ddf60ce05b46ef08709.jpeg" alt="Flask" height="40" style="margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node" height="40" style="margin:4px">
@@ -46,6 +47,7 @@
 <img src="https://img.icons8.com/color/344/linux--v1.png" alt="Linux" height="40" style="margin:4px">
 <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png" alt="Prisma" height="40" style="margin:4px">
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" height="40" style="margin:4px">
+<img src="https://miro.medium.com/max/400/1*dQnbv0c36h6ijsocaRWksQ.png" alt="Postman" height="40" style="margin:4px">
 </div>
  <br>
  
