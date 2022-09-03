@@ -48,6 +48,7 @@
 <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png" alt="Prisma" height="40" style="margin:4px">
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" height="40" style="margin:4px">
 <img src="https://miro.medium.com/max/400/1*dQnbv0c36h6ijsocaRWksQ.png" alt="Postman" height="40" style="margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDb" height="40" style="margin:4px">
 </div>
  <br>
  
