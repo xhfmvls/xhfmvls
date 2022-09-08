@@ -60,6 +60,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhfmvls&repo=node-express-projects&theme=dark)](https://github.com/xhfmvls/node-express-projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhfmvls&repo=typescript-cheat-sheet&theme=dark)](https://github.com/xhfmvls/typescript-cheat-sheet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhfmvls&repo=prisma-crud-rest-api&theme=dark)](https://github.com/xhfmvls/prisma-crud-rest-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhfmvls&repo=restaurant-api&theme=dark)](https://github.com/xhfmvls/restaurant-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhfmvls&repo=statements-against-mankind&theme=dark)](https://github.com/vhsxuz/statements-against-mankind)
 
 ## 📎 Github Stats
 [![Xhfmvls' GitHub stats](https://github-readme-stats.vercel.app/api?username=xhfmvls&show_icons=true&theme=dark)](https://github.com/xhfmvls)
