@@ -44,6 +44,7 @@
 <img src="https://img.icons8.com/color/344/flutter.png" alt="Flutter" height="40" style="margin:4px">
 <img src="https://img.icons8.com/fluency/344/mysql-logo.png" alt="MySQL" height="40" style="margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDb" height="40" style="margin:4px">
+<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo-redis.svg/1200px-Logo-redis.svg.png" alt="Redis" height="40" style="margin:4px">
 <img src="https://img.icons8.com/color/344/git.png" alt="Git" height="40" style="margin:4px">
 <img src="https://img.icons8.com/color/344/linux--v1.png" alt="Linux" height="40" style="margin:4px">
