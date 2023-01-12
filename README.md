@@ -54,7 +54,7 @@
 </div>
  <br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhfmvls&layout=compact&theme=dark)](https://github.com/xhfmvls)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhfmvls&layout=compact&theme=dark)](https://github.com/xhfmvls)
 
 ## 📌 Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xhfmvls&repo=c-buy&theme=dark)](https://github.com/xhfmvls/c-buy)
@@ -66,6 +66,6 @@
 
 ## 📎 Github Stats
 [![Xhfmvls' GitHub stats](https://github-readme-stats.vercel.app/api?username=xhfmvls&show_icons=true&theme=dark)](https://github.com/xhfmvls)
-<br><br>
+<br><br> -->
 
 <!-- ![Activity Snake Gif](https://github.com/xhfmvls/xhfmvls/misc/github-contribution-grid-snake.svg) -->
