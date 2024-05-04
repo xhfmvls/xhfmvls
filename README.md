@@ -27,7 +27,7 @@
 
 ## 📧 How to Reach Me
 <a href="https://www.linkedin.com/in/vincent-pradipta" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="mailto:vincepradipta1357@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+<a href="mailto:vipradiptadev@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 
 ## 🧰 Languages and Technology
 <div style="white-space:nowrap;">
