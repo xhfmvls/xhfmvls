@@ -19,7 +19,7 @@
 ```
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on my Quan C (Secure Programming Training Platform)
+- 🔭 I’m currently working on my project, Quan C (a secure programming training platform)
 - 🌱 I’m currently into Secure Programming and Game Development
 - 💬 Ask me about anything (I'm an open person)
 - ⚡ Fun fact: My profile picture is Thorfinn from the anime/manga of Vinland Saga. 
