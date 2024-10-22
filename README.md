@@ -19,9 +19,8 @@
 ```
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on my hackathon projects
-- 🌱 I’m currently learning software engineering and project management
-- 👯 I’m looking to collaborate on some hackathon events
+- 🔭 I’m currently working on my Quan C (Secure Programming Training Platform)
+- 🌱 I’m currently into Secure Programming and Game Development
 - 💬 Ask me about anything (I'm an open person)
 - ⚡ Fun fact: My profile picture is Thorfinn from the anime/manga of Vinland Saga. 
 
@@ -38,7 +37,6 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dartlang_logo_icon_170299.png" alt="Dart" height="40" style="margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="GO" height="40" style="margin:4px">
 <br>
-<img src="https://www.logolynx.com/images/logolynx/00/00429ca224699ddf60ce05b46ef08709.jpeg" alt="Flask" height="40" style="margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node" height="40" style="margin:4px">
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" height="40" style="margin:4px">
 <img src="https://img.icons8.com/color/344/flutter.png" alt="Flutter" height="40" style="margin:4px">
