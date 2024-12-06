@@ -2,7 +2,6 @@
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=xhfmvls)
 ![Github](https://img.shields.io/github/followers/xhfmvls?label=Followers&style=social)
-<a href="https://twitter.com/pradipta1357" target="_blank" rel="noopener noreferrer">![Twitter Badge](https://img.shields.io/badge/-@pradipta1357-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pradipta1357)
 <a href="https://www.linkedin.com/in/vincent-pradipta" target="_blank" rel="noopener noreferrer">![Linkedin Badge](https://img.shields.io/badge/-vincentpradipta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-pradipta/)</a>
 
 <br>
